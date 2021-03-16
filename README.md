@@ -20,7 +20,7 @@
 ###### Контакты:
 
 - :telephone_receiver: +7(981)-879-40-65
-- :email: kvaratsheliamihail@mail.ru
+- :email: kvaratsheliamihail@yandex.ru
 - Telegram: @kvaratshelia
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKvaratshelia)](https://github.com/MKvaratshelia/github-readme-stats)
