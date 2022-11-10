@@ -1,6 +1,6 @@
 ## Привет! Я Кварацхелия Михаил 👋
 
-#### Junior Frontend developer из Санкт-Петербурга
+#### Frontend developer из Санкт-Петербурга
 
 [Моё портфолио](https://kvaratshelia.ru) :notebook_with_decorative_cover:
 
@@ -11,6 +11,9 @@
 - JavaScript
 - React
 - Redux
+- Redux saga
+- Formik
+- Yup
 - Figma
 - Webpack
 - Sass
