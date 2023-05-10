@@ -1,6 +1,7 @@
 ## Привет! Я Кварацхелия Михаил 👋
 
 #### Frontend developer из Санкт-Петербурга
+<img src="https://komarev.com/ghpvc/?username=MKvaratshelia&style=flat-square&color=blue" alt=""/>
 
 [Моё портфолио](https://kvaratshelia.ru) :notebook_with_decorative_cover:
 
@@ -9,8 +10,10 @@
 - HTML5
 - CSS3
 - JavaScript
-- React
+- TypeScript
+- Storybook
 - Redux
+- Redux Toolkit
 - Redux saga
 - Formik
 - Yup
