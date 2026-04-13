@@ -2,7 +2,7 @@
 
 #### Frontend developer из Санкт-Петербурга
 
-[Моё портфолио]([https://kvaratshelia.ru](https://nuxt-portf.vercel.app/)) :notebook_with_decorative_cover:
+[Моё портфолио](https://nuxt-portf.vercel.app/) :notebook_with_decorative_cover:
 
 ###### Список технологий которые я использовал:
 
